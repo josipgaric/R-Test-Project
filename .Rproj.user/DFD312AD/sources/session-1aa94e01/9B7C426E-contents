@@ -1,0 +1,2 @@
+#cavallo
+#bianco
